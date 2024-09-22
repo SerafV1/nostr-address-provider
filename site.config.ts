@@ -10,7 +10,7 @@ export default {
 
   // your donation LNURL
   donationLNUrl:
-    "LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7JMPVDV9YCC4FVREX",
+    "seraf@getalby.com",
 
   // name of your MongoDB database
   dbName: "users",
