@@ -22,7 +22,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-qr-code": "^2.0.11",
-    "react-transition-group": "^4.4.5"
+    "react-transition-group": "^4.4.5",
+    "@vercel/analytics"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
